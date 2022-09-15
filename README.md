@@ -1,7 +1,7 @@
 <!-- This README.md is mainly based on README from @MarinHeinz (https://github.com/MartinHeinz/MartinHeinz) -->
   
   
-  #Bio
+# Bio
   
   Carlos is a PhD student in Epidemiology at the University of Washington's School of Public Health, and research assistant at the Fred Hutchinson Center. 
 
