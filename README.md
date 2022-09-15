@@ -14,7 +14,7 @@
 
 ## Methodological interests
 
-Interested in causal inference methods applied on observational studies and randomized trials under time-variant settings. Currently applying causal inference methods on a cluster-randomized trial addressing PrEP initiation in Kenya..
+Interested in causal inference methods applied on observational studies and randomized trials under time-variant settings. Currently applying causal inference methods on a cluster-randomized trial addressing PrEP initiation in Kenya.
 
 
 ## GitHub Stats
