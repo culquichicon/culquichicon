@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/code-Programming-informational?style=flat&logo=RStudio&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Git-Tools-informational?style=flat&logo=git&logoColor=white&color=38BA8D)
 ![](https://img.shields.io/badge/GitHub-Tools-informational?style=flat&logo=github&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/LaTex-Tools-informational?style=flat&logo=LaTeX&logoColor=white&color=38BA8D)
 
 ## Methodological interests
 
