@@ -3,7 +3,7 @@
   
   #
   
-  Carlos is a PhD student in Epidemiology at the University of Washington's School of Public Health, and research assistant at the Fred Hutchinson Center. Interested in causal inference methods applied on observational studies and randomized trials under time-variant settings. Currently applying causal inference methods on a cluster-randomized trial addressing PrEP initiation in Kenya.
+  Carlos is a PhD student in Epidemiology at the University of Washington's School of Public Health, and research assistant at the Fred Hutchinson Center. 
 
 ## Statistical and programming software
 
@@ -18,7 +18,7 @@
 
 ## Methodological interests
 
-Example here.
+Interested in causal inference methods applied on observational studies and randomized trials under time-variant settings. Currently applying causal inference methods on a cluster-randomized trial addressing PrEP initiation in Kenya.
 
 
 ## GitHub Stats
@@ -27,7 +27,7 @@ Example here.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=culquichicon&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/culquichicon/culquichicon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=culquichicon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Percy's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=culquichicon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Carlos' GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
