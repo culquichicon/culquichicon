@@ -7,14 +7,11 @@
 
 ## Statistical and programming software
 
-![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-R%20project-informational?style=flat&logo=R&logoColor=white&color=38BA8D)
 ![](https://img.shields.io/badge/Code-R%20Studio-informational?style=flat&logo=RStudio&logoColor=white&color=38BA8D)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=38BA8D)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=38BA8D)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=38BA8D)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=38BA8D)
-![](https://img.shields.io/badge/Tools-Zotero-informational?style=flat&logo=zotero&logoColor=white&color=38BA8D)
 
 ## Methodological interests
 
