@@ -9,8 +9,8 @@
 
 ![](https://img.shields.io/badge/Stata-Statistics-informational?style=flat&logoColor=white&color=red)
 ![](https://img.shields.io/badge/code-Programming-informational?style=flat&logo=RStudio&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=38BA8D)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/Git-Tools-informational?style=flat&logo=git&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/GitHub-Tools-informational?style=flat&logo=github&logoColor=white&color=38BA8D)
 
 ## Methodological interests
 
