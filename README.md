@@ -8,8 +8,7 @@
 ## Statistical and programming softwares
 
 ![](https://img.shields.io/badge/Stata-Statistics-informational?style=flat&logoColor=white&color=red)
-![](https://img.shields.io/badge/studio-Programming-informational?style=flat&logo=RStudio&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Code-R%20Studio-informational?style=flat&logo=RStudio&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/code-Programming-informational?style=flat&logo=RStudio&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=38BA8D)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=38BA8D)
 
