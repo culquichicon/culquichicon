@@ -3,7 +3,7 @@
   
 ## Bio
   
-  Carlos is a PhD student in Epidemiology at the University of Washington's School of Public Health, and research assistant at the Fred Hutchinson Center.. 
+  Carlos is a PhD student in Epidemiology at the University of Washington's School of Public Health, and research assistant at the Fred Hutchinson Center..   
 
 ## Statistical softwares, programming languages, and other tools
 
@@ -21,7 +21,7 @@ Interested in causal inference methods applied on observational studies and rand
 ## GitHub Stats
 
 <a href="https://github.com/culquichicon/culquichicon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=culquichicon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=culquichicon&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" />
 </a>
 
 
