@@ -3,7 +3,7 @@
   
 ## Bio
   
-  Carlos is a PhD student in Epidemiology at the University of Washington's School of Public Health, and research assistant at the Fred Hutchinson Center..   
+  Carlos is a PhD student in Epidemiology at the University of Washington's School of Public Health, and research assistant at the Fred Hutchinson Center.  
 
 ## Statistical softwares, programming languages, and other tools
 
