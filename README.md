@@ -21,7 +21,7 @@ Interested in causal inference methods applied on observational studies and rand
 ## GitHub Stats
 
 <a href="https://github.com/culquichicon/culquichicon">
-  <img align="center" src="https://api.githubtrends.io/user/svg/culquichicon/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark" />
+  <img align="center" src="https://api.githubtrends.io/user/svg/culquichicon/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark" />
 </a>
 
 
