@@ -21,7 +21,7 @@ Interested in causal inference methods applied on observational studies and rand
 ## GitHub Stats
 
 <a href="https://github.com/culquichicon/culquichicon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=culquichicon&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=culquichicon&count_private=true&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" />
 </a>
 
 
