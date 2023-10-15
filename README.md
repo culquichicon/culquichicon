@@ -5,7 +5,7 @@
   
   Carlos is a PhD student in Epidemiology at the University of Washington's School of Public Health, and research assistant at the Fred Hutchinson Center.  
 
-## Statistical softwares, programming languages, and other tools
+## Statistical, programming, and typesetting softwares
 
 ![](https://img.shields.io/badge/Stata-Statistics-informational?style=flat&logoColor=white&color=red)
 ![](https://img.shields.io/badge/code-Programming-informational?style=flat&logo=RStudio&logoColor=white&color=informational)
