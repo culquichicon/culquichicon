@@ -25,9 +25,7 @@ Interested in causal inference methods applied on observational studies and rand
 </a>
 
 
-<a href="https://github.com/culquichicon/culquichicon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=culquichicon&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
-</a>
+
 
 <!-- links to social media icons -->
 
@@ -42,12 +40,6 @@ Interested in causal inference methods applied on observational studies and rand
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/psotob91
-[2]: https://github.com/psotob91
-[3]: https://pe.linkedin.com/in/psotobecerra
 
 
 <!-- Resources -->
